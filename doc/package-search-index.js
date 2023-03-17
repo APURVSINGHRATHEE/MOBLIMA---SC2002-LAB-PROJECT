@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Controller"},{"l":"Helpful"},{"l":"Model.Cineplex"},{"l":"Model.KickOff"},{"l":"Model.Movie"},{"l":"Model.User"},{"l":"View"}];updateSearchResults();
